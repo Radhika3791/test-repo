@@ -1,0 +1,2 @@
+api_key = "sk-1234567890abcdef123456"
+aws_key = "AKIAIOSFODNN7EXAMPLE"
